@@ -4,3 +4,6 @@
 [submodule "lab-02-f26"]
 	path = lab-02-f26
 	url = https://github.com/greadee/lab-02-f26
+[submodule "lab-03-f26"]
+	path = lab-03-f26
+	url = https://github.com/greadee/lab-03-f26.git
