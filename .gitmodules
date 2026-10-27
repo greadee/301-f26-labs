@@ -7,3 +7,15 @@
 [submodule "lab-03-f26"]
 	path = lab-03-f26
 	url = https://github.com/greadee/lab-03-f26.git
+[submodule "lab-05-f26"]
+	path = lab-05-f26
+	url = https://github.com/cmput301-f26/lab-05
+[submodule "lab-06-f26"]
+	path = lab-06-f26
+	url = https://github.com/greadee/lab-06-f26.git
+[submodule "lab-07-f26"]
+	path = lab-07-f26
+	url = https://github.com/greadee/lab-07-f26
+[submodule "lab-08-f26"]
+	path = lab-08-f26
+	url = https://github.com/cmput301-f26/lab-08
